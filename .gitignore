@@ -3,7 +3,7 @@ maven-wrapper*
 .mvn
 mvnw*
 
-
+*/prometheus_data/*
 ### Java ###
 # Compiled class file
 *.class
